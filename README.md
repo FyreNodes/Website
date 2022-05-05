@@ -1,0 +1,2 @@
+# Website
+FyreNodes public website.
